@@ -1,0 +1,93 @@
+/* EDIT THESE STYLES */
+
+h1 {
+  width:100%;
+  font-size:6vw;
+  margin:0;
+}
+
+h2 {
+  width:100%;
+  font-size:3vw;
+}
+
+p {
+  width:50%;
+  font-size:16px;
+}
+
+p#name-1 {
+  
+}
+
+p#name-2 {
+  
+}
+
+p#name-3 {
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* LEAVE THESE ALONE */
+
+
+
+body {
+  overflow:hidden;
+  margin:0;
+}
+
+.poster-text {
+  font-family:sans-serif;
+  display:flex;
+  flex-wrap:wrap;
+  position:absolute;
+  align-items:center;
+  justify-content:left;
+  align-content:center;
+  width:100%;
+  height:100%;
+  padding:2em;
+  box-sizing:border-box;
+}
+
+.poster-illustration{
+  position:absolute;
+  z-index:-1;
+  top:50%;
+  left:50%;
+  transform:translateX(-50%) translateY(-50%)
+    
+}
+
+
+
+
+
