@@ -2,22 +2,25 @@
 
 h1 {
   width:100%;
-  font-size:6vw;
+  font-size:12vw;
   margin:0;
 }
 
 h2 {
-  width:100%;
+  width:80%;
   font-size:3vw;
+    position:absolute;
+  bottom:0;
 }
 
 p {
-  width:50%;
+  width:33%;
   font-size:16px;
 }
 
 p#name-1 {
   
+
 }
 
 p#name-2 {
